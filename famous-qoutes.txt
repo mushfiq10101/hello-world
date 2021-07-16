@@ -17,3 +17,13 @@ mcu lines:
 “I am Iron Man.” (Tony Stark- Iron Man) ...
 “I am Inevitable.”(Thanos- Avengers: Endgame) ...
 “He may have been your father, boy, but he wasn't your daddy.” (Yondu- Guardians of the Galaxy Vol
+
+popular anime lines:
+"The world isn't perfect. But it's there for us, doing the best it can....that's what makes it so damn beautiful."
+~ Roy Mustang (Full Metal Alchemist)
+"To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness you could have."
+~ Matsumoto Rangiku (Bleach)
+"We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let's not disappear like a firework and continue to shine.. forever."
+~ Hitsugaya Toshiro (Bleach)
+"Those who stand at the top determine what's wrong and what's right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice!"
+~ Don Quixote Doflamingo (One Piece)
